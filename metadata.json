@@ -1,0 +1,6 @@
+{
+  "name": "Inventory Management System",
+  "description": "A full-stack, responsive Inventory Management System with real-time stock tracking, product & supplier CRUD, transaction logs, low-stock alerts, REST APIs, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
